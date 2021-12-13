@@ -7,6 +7,7 @@ El presente trabajo tiene por objetivo visualizar la relacion que tiene el desar
 
 ## Datos crudos
 Los datos crudos de "The Gender, Institutions and Development Database (GID-DB)" se encuentran el archivo [GIDDB2019_08122021180920621.csv](https://github.com/Velezpaola/Proyecto_Integrador-Ing_caract-/blob/main/GIDDB2019_08122021180920621.csv)
+
 Los datos crudos de World Economic Outlook Database se encuentra en el archivo [WEOOct2021all.xls](https://github.com/Velezpaola/Proyecto_Integrador-Ing_caract-/blob/main/WEOOct2021all.xls)
 
 ## Analisis de datos
